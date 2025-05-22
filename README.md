@@ -1,6 +1,6 @@
 ## Taskade
 
-Taskade is a one-week project I created to kickstart my productive coding journey. It's a real-time updating to-do list
+Taskade is a  real-time updating to-do list
 featuring custom-designed UI elements. This project not only helped me refresh my javaScript skills but also reinforced my
 understanding of fundamentals methods and data structures.
 ### It was build with...
