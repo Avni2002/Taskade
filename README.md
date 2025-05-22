@@ -27,7 +27,5 @@ to-do list displayed below the date and the input field, and you'll be able to c
 the line. It will update automatically your progression bar, that updates its value according to the number of tasks you put, and
 the number of tasks you finished.
 
-![to-do list visualization](https://github.com/user-attachments/assets/90c264ea-229a-418a-8603-c8b7d30647a6)
-
 Once you're done, click on the finish button to get your daily achievement score!
 
